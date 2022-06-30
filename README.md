@@ -1,3 +1,3 @@
 # Technocolab_internship
-Data Cleaning tutorial
-Data Visualization tutorial
+* Data Cleaning tutorial
+* Data Visualization tutorial
